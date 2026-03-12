@@ -4,9 +4,9 @@
 
 **Software Technology Student · ZEISS AG & THM**
 
-`Angular Frontends` `Rust` `Linux` `Shell`
+`Angular Frontend` `Rust` `Linux` `Shell`
 
-[![Email](https://img.shields.io/badge/Email-niklaslautenschlager@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:brangidodo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-brangidodo@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:brangidodo@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Wetzlar,_Germany-000000?style=flat-square)](https://maps.google.com/?q=Wetzlar,Germany)
 
 </div>
