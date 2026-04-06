@@ -25,8 +25,8 @@ Focused on building reliable software with Angular and Springboot environments, 
 | Project | Description | Tech | Status |
 |:--------|:------------|:-----|:-------|
 | [**Cerberus**](https://github.com/niklaslautenschlager/Cerberus) | Local-first encrypted password manager | `Rust` | `Work in Progress` |
-| [**void-auto-setup**](https://github.com/niklaslautenschlager/void-auto-setup) | Automated setup script for Void Linux | `Shell` | | `Finished / Maintaining` |
-| [**Olympus**](https://github.com/niklaslautenschlager/Olympus) | CLI Pomodoro Tool | `Rust` | | `Finished / Maintaining` |
+| [**void-auto-setup**](https://github.com/niklaslautenschlager/void-auto-setup) | Automated setup script for Void Linux | `Shell` | | `Maintaining` |
+| [**Olympus**](https://github.com/niklaslautenschlager/Olympus) | CLI Pomodoro Tool | `Rust` | | `Maintaining` |
 
 
 ---
