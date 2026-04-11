@@ -22,11 +22,12 @@ Focused on building reliable software with Angular and Springboot environments, 
 
 ### Projects
 
-| Project | Description | Tech | Status |
-|:--------|:------------|:-----|:-------|
-| [**Cerberus**](https://github.com/niklaslautenschlager/Cerberus) | Local-first encrypted password manager | `Rust` | `Work in Progress` |
-| [**void-auto-setup**](https://github.com/niklaslautenschlager/void-auto-setup) | Automated setup script for Void Linux | `Shell` | `Maintaining` |
-| [**Olympus**](https://github.com/niklaslautenschlager/Olympus) | CLI Pomodoro Tool | `Rust` | `Maintaining` |
+| Project | Description | Tech | Status | AI-Generated |
+|:--------|:------------|:-----|:-------|:-------------|
+| [**Cerberus**](https://github.com/niklaslautenschlager/Cerberus) | Local-first encrypted password manager | `Rust` | `Work in Progress` | `NO` |
+| [**void-auto-setup**](https://github.com/niklaslautenschlager/void-auto-setup) | Automated setup script for Void Linux | `Shell` | `Maintaining` | `YES` |
+| [**Olympus**](https://github.com/niklaslautenschlager/Olympus) | CLI Pomodoro Tool | `Rust` | `Maintaining` | `YES` |
+| [**rustyengine**](https://github.com/niklaslautenschlager/rustyengine) | Rust physics engine | `Rust` | `Maintaining` | `NO` |
 
 
 ---
