@@ -4,7 +4,7 @@
 
 **Software Technology Student · ZEISS AG & THM**
 
-`Angular Frontend` `Rust` `Linux` `Shell` `Artificial Intelligence`  
+`Angular Frontend` `Rust` `Linux` `Artificial Intelligence`  
 
 [![Email](https://img.shields.io/badge/Email-brangidodo@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:brangidodo@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Wetzlar,_Germany-000000?style=flat-square)](https://maps.google.com/?q=Wetzlar,Germany)
