@@ -26,7 +26,7 @@ Focused on building reliable software with Angular and Springboot environments, 
 |:--------|:------------|:-----|:-------|:-------------|
 | [**Cerberus**](https://github.com/niklaslautenschlager/Cerberus) | Local-first encrypted password manager | `Rust` | `Work in Progress` | `NO` |
 | [**void-auto-setup**](https://github.com/niklaslautenschlager/void-auto-setup) | Automated setup script for Void Linux | `Shell` | `Developing` | `YES` |
-| [**Hades**](https://github.com/niklaslautenschlager/Hades) |General Study App | `Typescript` | `Maintaining` | `YES` |
+| [**Hades**](https://github.com/niklaslautenschlager/Hades) | Centralised Study App | `Typescript` | `Maintaining` | `YES` |
 | [**rustyengine**](https://github.com/niklaslautenschlager/rustyengine) | Rust physics engine | `Rust` | `Work in Progress` | `NO` |
 
 
