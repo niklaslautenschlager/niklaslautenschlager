@@ -4,7 +4,7 @@
 
 **Software Technology Student · ZEISS AG & THM**
 
-`Angular Frontend` `Rust` `Linux` `Artificial Intelligence`  
+`Angular Frontend` `Java Spring Boot` `Linux` `Artificial Intelligence`  
 
 [![Email](https://img.shields.io/badge/Email-niklaslautenschlager@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:niklaslautenschlager@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Wetzlar,_Germany-000000?style=flat-square)](https://maps.google.com/?q=Wetzlar,Germany)
